@@ -1,0 +1,564 @@
+<div>
+    <style>
+        .sh-src a {
+            text-decoration: none !important;
+        }
+    </style>
+</div>
+<br />
+<table
+    cellpadding="0"
+    cellspacing="0"
+    border="0"
+    class="sh-src"
+    style="margin: 0px; border-collapse: collapse">
+    <tr>
+        <td style="padding: 0px 1px 0px 0px">
+            <table
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                style="border-collapse: separate; margin: 0px">
+                <tr>
+                    <td
+                        align="center"
+                        valign="top"
+                        style="padding: 0px 25px 0px 0px; vertical-align: top">
+                        <table
+                            cellpadding="0"
+                            cellspacing="0"
+                            border="0"
+                            style="margin: 0px; border-collapse: collapse">
+                            <tr>
+                                <td style="padding: 0px 1px 0px 0px">
+                                    <p style="margin: 1px">
+                                        <img
+                                            src="https://signaturehound.com/api/v1/file/2evho8wklotgvd09"
+                                            alt=""
+                                            title="Profile Picture"
+                                            width="103"
+                                            height="103"
+                                            class=""
+                                            style="
+                                                display: block;
+                                                border: 0px;
+                                                max-width: 103px;
+                                            " />
+                                    </p>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td
+                        valign="top"
+                        style="padding: 0px 30px 0px 1px; vertical-align: top">
+                        <table
+                            cellpadding="0"
+                            cellspacing="0"
+                            border="0"
+                            style="margin: 0px; border-collapse: collapse">
+                            <tr>
+                                <td
+                                    style="
+                                        padding: 0px 1px 0px 0px;
+                                        font-family: Arial, sans-serif;
+                                        font-size: 13px;
+                                        line-height: 17px;
+                                        white-space: nowrap;
+                                    ">
+                                    <p
+                                        style="
+                                            font-family: Arial, sans-serif;
+                                            font-size: 13px;
+                                            line-height: 17px;
+                                            font-weight: 700;
+                                            color: rgb(0, 0, 0);
+                                            white-space: nowrap;
+                                            margin: 1px;
+                                        ">
+                                        Joel Sterry
+                                    </p>
+                                    <p
+                                        style="
+                                            font-family: Arial, sans-serif;
+                                            font-size: 13px;
+                                            line-height: 18px;
+                                            white-space: nowrap;
+                                            color: rgb(136, 136, 136);
+                                            margin: 1px;
+                                        ">
+                                        Year 9 P+<br /><br />
+                                    </p>
+                                    <p
+                                        style="
+                                            font-family: Arial, sans-serif;
+                                            font-size: 13px;
+                                            line-height: 18px;
+                                            white-space: nowrap;
+                                            color: rgb(136, 136, 136);
+                                            margin: 1px;
+                                        ">
+                                        Tute 8.01
+                                    </p>
+                                    <p
+                                        style="
+                                            font-family: Arial, sans-serif;
+                                            font-size: 13px;
+                                            line-height: 18px;
+                                            white-space: nowrap;
+                                            color: rgb(136, 136, 136);
+                                            margin: 1px;
+                                        ">
+                                        Morley SHS
+                                    </p>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td
+                        style="
+                            padding: 1px 0px 0px;
+                            border-right: 3px solid rgb(0, 123, 255);
+                        "></td>
+                    <td
+                        valign="top"
+                        style="padding: 0px 1px 0px 30px; vertical-align: top">
+                        <table
+                            cellpadding="0"
+                            cellspacing="0"
+                            border="0"
+                            style="margin: 0px; border-collapse: collapse">
+                            <tr>
+                                <td style="padding: 0px 1px 0px 0px">
+                                    <table
+                                        cellpadding="0"
+                                        cellspacing="0"
+                                        border="0"
+                                        style="
+                                            margin: 0px;
+                                            border-collapse: collapse;
+                                        ">
+                                        <tr>
+                                            <td
+                                                valign="middle"
+                                                style="
+                                                    padding: 1px 5px 1px 0px;
+                                                    vertical-align: middle;
+                                                ">
+                                                <p style="margin: 1px">
+                                                    <img
+                                                        src="https://signaturehound.com/api/v1/png/email/default/007bff.png"
+                                                        alt=""
+                                                        width="18"
+                                                        height="18"
+                                                        style="
+                                                            display: block;
+                                                            border: 0px;
+                                                            max-width: 18px;
+                                                        " />
+                                                </p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    font-family: Arial,
+                                                        sans-serif;
+                                                    font-size: 13px;
+                                                    line-height: 17px;
+                                                    white-space: nowrap;
+                                                    color: rgb(
+                                                        136,
+                                                        136,
+                                                        135
+                                                    ) !important;
+                                                    padding: 1px 0px;
+                                                    vertical-align: middle;
+                                                ">
+                                                <p style="margin: 1px">
+                                                    <a
+                                                        href="mailto:joel.sterry@student.education.wa.edu.au"
+                                                        target="_blank"
+                                                        style="
+                                                            font-family: Arial,
+                                                                sans-serif;
+                                                            font-size: 13px;
+                                                            line-height: 17px;
+                                                            white-space: nowrap;
+                                                            color: rgb(
+                                                                136,
+                                                                136,
+                                                                136
+                                                            );
+                                                            text-decoration: none !important;
+                                                        "
+                                                        ><span
+                                                            style="
+                                                                font-family: Arial,
+                                                                    sans-serif;
+                                                                font-size: 13px;
+                                                                line-height: 17px;
+                                                                white-space: nowrap;
+                                                                color: rgb(
+                                                                    136,
+                                                                    136,
+                                                                    136
+                                                                );
+                                                                text-decoration: none !important;
+                                                            "
+                                                            >joel.sterry@student.education.wa.edu.au</span
+                                                        ></a
+                                                    >
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                valign="middle"
+                                                style="
+                                                    padding: 1px 5px 1px 0px;
+                                                    vertical-align: middle;
+                                                ">
+                                                <p style="margin: 1px">
+                                                    <img
+                                                        src="https://signaturehound.com/api/v1/png/phone/default/007bff.png"
+                                                        alt=""
+                                                        width="18"
+                                                        height="18"
+                                                        style="
+                                                            display: block;
+                                                            border: 0px;
+                                                            max-width: 18px;
+                                                        " />
+                                                </p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    font-family: Arial,
+                                                        sans-serif;
+                                                    font-size: 13px;
+                                                    line-height: 17px;
+                                                    white-space: nowrap;
+                                                    color: rgb(
+                                                        136,
+                                                        136,
+                                                        135
+                                                    ) !important;
+                                                    padding: 1px 0px;
+                                                    vertical-align: middle;
+                                                ">
+                                                <p style="margin: 1px">
+                                                    <a
+                                                        href="tel:+0401209037"
+                                                        target="_blank"
+                                                        style="
+                                                            font-family: Arial,
+                                                                sans-serif;
+                                                            font-size: 13px;
+                                                            line-height: 17px;
+                                                            white-space: nowrap;
+                                                            color: rgb(
+                                                                136,
+                                                                136,
+                                                                136
+                                                            );
+                                                            text-decoration: none !important;
+                                                        "
+                                                        ><span
+                                                            style="
+                                                                font-family: Arial,
+                                                                    sans-serif;
+                                                                font-size: 13px;
+                                                                line-height: 17px;
+                                                                white-space: nowrap;
+                                                                color: rgb(
+                                                                    136,
+                                                                    136,
+                                                                    136
+                                                                );
+                                                                text-decoration: none !important;
+                                                            "
+                                                            >+0401209037</span
+                                                        ></a
+                                                    >
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <!---->
+                                        <tr>
+                                            <td
+                                                colspan="2"
+                                                style="
+                                                    font-family: Arial,
+                                                        sans-serif;
+                                                    font-size: 13px;
+                                                    line-height: 17px;
+                                                    white-space: nowrap;
+                                                    color: rgb(
+                                                        0,
+                                                        123,
+                                                        254
+                                                    ) !important;
+                                                    font-weight: 700;
+                                                    padding: 15px 3px 0px 0px;
+                                                ">
+                                                <p style="margin: 1px">
+                                                    <a
+                                                        href="https://morleyshs.wa.edu.au/"
+                                                        target="_blank"
+                                                        style="
+                                                            font-family: Arial,
+                                                                sans-serif;
+                                                            font-size: 13px;
+                                                            line-height: 17px;
+                                                            white-space: nowrap;
+                                                            color: rgb(
+                                                                0,
+                                                                123,
+                                                                255
+                                                            );
+                                                            font-weight: 700;
+                                                            text-decoration: none !important;
+                                                        "
+                                                        ><span
+                                                            style="
+                                                                font-family: Arial,
+                                                                    sans-serif;
+                                                                font-size: 13px;
+                                                                line-height: 17px;
+                                                                white-space: nowrap;
+                                                                color: rgb(
+                                                                    0,
+                                                                    123,
+                                                                    255
+                                                                );
+                                                                font-weight: 700;
+                                                                text-decoration: none !important;
+                                                            "
+                                                            >morleyshs.wa.edu.au</span
+                                                        ></a
+                                                    >
+                                                </p>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td
+                        colspan="4"
+                        style="
+                            padding: 0px 1px 25px 0px;
+                            border-bottom: 3px solid rgb(0, 123, 255);
+                        "></td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="padding: 25px 1px 0px 0px">
+                        <table
+                            cellpadding="0"
+                            cellspacing="0"
+                            border="0"
+                            style="margin: 0px; border-collapse: collapse">
+                            <tr>
+                                <td style="padding: 0px 1px 0px 0px">
+                                    <p style="margin: 1px">
+                                        <a
+                                            href="https://morleyshs.wa.edu.au/"
+                                            target="_blank"
+                                            ><img
+                                                src="https://signaturehound.com/api/v1/file/1nxklykkloth26t4"
+                                                alt=""
+                                                title="Logo"
+                                                width="150"
+                                                height="42"
+                                                style="
+                                                    display: block;
+                                                    border: 0px;
+                                                    max-width: 150px;
+                                                "
+                                        /></a>
+                                    </p>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td
+                        valign="middle"
+                        colspan="2"
+                        style="
+                            padding: 25px 1px 0px 25px;
+                            vertical-align: middle;
+                        ">
+                        <table
+                            cellpadding="0"
+                            cellspacing="0"
+                            border="0"
+                            style="margin: 0px; border-collapse: collapse">
+                            <tr>
+                                <td
+                                    width="30"
+                                    style="
+                                        font-size: 0px;
+                                        line-height: 0px;
+                                        padding: 0px 1px 0px 0px;
+                                    ">
+                                    <p style="margin: 1px">
+                                        <img
+                                            src="https://signaturehound.com/api/v1/png/linktree/default/007bff.png"
+                                            alt=""
+                                            width="30"
+                                            height="30"
+                                            style="
+                                                display: block;
+                                                border: 0px;
+                                                max-width: 30px;
+                                            " />
+                                    </p>
+                                </td>
+                                <td width="3" style="padding: 0px 0px 1px"></td>
+                                <td
+                                    width="30"
+                                    style="
+                                        font-size: 0px;
+                                        line-height: 0px;
+                                        padding: 0px 1px 0px 0px;
+                                    ">
+                                    <p style="margin: 1px">
+                                        <a
+                                            href="https://github.com/coolcoder96"
+                                            target="_blank"
+                                            ><img
+                                                src="https://signaturehound.com/api/v1/png/github/default/007bff.png"
+                                                alt=""
+                                                width="30"
+                                                height="30"
+                                                style="
+                                                    display: block;
+                                                    border: 0px;
+                                                    max-width: 30px;
+                                                "
+                                        /></a>
+                                    </p>
+                                </td>
+                                <td width="3" style="padding: 0px 0px 1px"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <!---->
+    <tr>
+        <td style="padding: 0px 1px 0px 0px">
+            <table
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                style="
+                    max-width: 600px;
+                    margin: 0px;
+                    border-collapse: collapse;
+                ">
+                <tr>
+                    <td
+                        style="
+                            padding: 30px 1px 0px 0px;
+                            font-family: Arial, sans-serif;
+                            font-size: 10px;
+                            line-height: 13px;
+                            color: rgb(136, 136, 136);
+                        ">
+                        <p
+                            style="
+                                font-family: Arial, sans-serif;
+                                font-size: 10px;
+                                line-height: 13px;
+                                color: rgb(136, 136, 136);
+                                margin: 1px;
+                            ">
+                            Disclaimer: This email is certified to be ignored by
+                            99% of the population – but not you, of course!
+                            Legalities first: By daring to read this email,
+                            you're willingly diving headfirst into the realm of
+                            craziness. If you're not up for non-anime paradise,
+                            close this email right now. Proceed at your own
+                            risk, and may everyone laugh at the sight of this
+                            lovely disclaimer, a testament to your bravery in
+                            the face of potentially hilarious content.
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 0px 1px 0px 0px">
+            <table
+                cellpadding="0"
+                cellspacing="0"
+                border="0"
+                style="margin: 0px; border-collapse: collapse">
+                <tr>
+                    <td
+                        valign="middle"
+                        style="
+                            padding: 30px 4px 1px 0px;
+                            vertical-align: middle;
+                        ">
+                        <p style="margin: 1px">
+                            <img
+                                src="https://signaturehound.com/images/email/icon.png"
+                                alt=""
+                                width="20"
+                                height="20"
+                                style="
+                                    display: block;
+                                    border: 0px;
+                                    max-width: 20px;
+                                " />
+                        </p>
+                    </td>
+                    <td
+                        style="
+                            font-family: Arial, sans-serif;
+                            color: rgb(136, 136, 135) !important;
+                            font-weight: 700;
+                            font-size: 10px;
+                            line-height: 15px;
+                            padding: 30px 0px 1px;
+                            vertical-align: middle;
+                        ">
+                        <p style="margin: 1px">
+                            <a
+                                href="https://signaturehound.com"
+                                target="_blank"
+                                style="
+                                    font-family: Arial, sans-serif;
+                                    color: rgb(136, 136, 136);
+                                    font-weight: 700;
+                                    font-size: 10px;
+                                    line-height: 15px;
+                                    text-decoration: none !important;
+                                "
+                                ><span
+                                    style="
+                                        font-family: Arial, sans-serif;
+                                        color: rgb(136, 136, 136);
+                                        font-weight: 700;
+                                        font-size: 10px;
+                                        line-height: 15px;
+                                        text-decoration: none !important;
+                                    "
+                                    >Created with Signature Hound</span
+                                ></a
+                            >
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <!---->
+</table>
